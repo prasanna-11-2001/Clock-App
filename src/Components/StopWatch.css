@@ -1,0 +1,19 @@
+.stopwatch-container {
+    text-align: center;
+}
+
+.elapsedTime {
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.button {
+    color: #fff;
+    background-color: #5f383f;
+    border: 1px solid #180445;
+    padding: 10px 30px;
+    margin: 0px 8px;
+    font-size: 18px;
+    border-radius: 9px;
+}

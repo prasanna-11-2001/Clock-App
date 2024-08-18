@@ -1,0 +1,16 @@
+.formattedtime {
+    font-size: 29px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+.buttons {
+    color: #fff;
+    background-color: #5f383f;
+    border: 1px solid #180445;
+    padding: 10px 30px;
+    margin: 0px 8px;
+    font-size: 19px;
+    border-radius: 9px;
+}
